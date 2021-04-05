@@ -1,0 +1,7 @@
+name: 'Tableau Block'
+type: module
+description: 'Tableau Block'
+package: 'Tableau'
+core: 8.x
+dependencies:
+  - block

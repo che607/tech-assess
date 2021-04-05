@@ -1,0 +1,9 @@
+tableau_block:
+  css:
+    theme:
+      css/tableau-block.css: {}
+  js:
+    js/tableau-block.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

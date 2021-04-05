@@ -1,0 +1,6 @@
+tableau_block.admin_settings_form:
+  title: 'Tableau Block'
+  route_name: tableau_block.admin_settings_form
+  description: 'Header Authentication'
+  parent: system.admin_config_system
+  weight: 99

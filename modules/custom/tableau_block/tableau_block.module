@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function tableau_block_theme() {
+  return [
+    'tableau_block' => [
+      'variables' => ['var' => NULL],
+    ],
+  ];
+}
